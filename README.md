@@ -126,5 +126,5 @@ This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
-- Dataset source: [Add your data source here]
 - Inspired by content-based recommendation systems
+
